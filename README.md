@@ -1,4 +1,4 @@
-# SPECK - Sparse Partial differential Equation disCovery with Kernels
+# SPECK - Sparse PDE ExtraCtion from Kernels
 
 ## Overview
 
